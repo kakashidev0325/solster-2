@@ -10,17 +10,17 @@
      · empty link      → button points at the X account instead
    ───────────────────────────────────────────────────────────── */
 const CONFIG = {
-  // Solana mint address.
-  contract: "GatUtjrT1viodATZEZ6zgwTS4crJB3Uw4L11ho3wpump",
+  // Solana mint address. "TBA" until the mint is published.
+  contract: "TBA",
 
   // Trading + chart links
-  buy:      "https://pump.fun/coin/GatUtjrT1viodATZEZ6zgwTS4crJB3Uw4L11ho3wpump",
-  chart:    "https://dexscreener.com/solana/GatUtjrT1viodATZEZ6zgwTS4crJB3Uw4L11ho3wpump",
-  scan:     "https://solscan.io/token/GatUtjrT1viodATZEZ6zgwTS4crJB3Uw4L11ho3wpump",
+  buy:      "",
+  chart:    "",
+  scan:     "",
 
   // Socials
-  twitter:  "https://x.com/sol_ster_x",
-  telegram: "https://t.me/solsterontg",
+  twitter:  "https://x.com/steronsol_x",
+  telegram: "https://t.me/steronsol_tg",
 
   supply:   "",
 };
